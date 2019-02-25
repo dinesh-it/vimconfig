@@ -1,0 +1,6 @@
+" 
+" User's local vim configuration
+"  
+let g:author="Dinesh D"
+let g:email="<dinesh>@gmail.com"
+

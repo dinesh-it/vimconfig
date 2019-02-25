@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/swetha/project/PAMS-WWW/lib/PAMS/WWW/Controller'
+let g:netrw_dirhist_2='/home/swetha/project/PAMS-WWW/lib/PAMS/WWW/Schema/Result'
+let g:netrw_dirhist_3='/home/shared/vimconfig/vim/plugin'
+let g:netrw_dirhist_4='/home/swetha/project/PAMS-WWW/lib/PAMS/WWW/Servlet'
+let g:netrw_dirhist_5='/var/spool/mail'
+let g:netrw_dirhist_6='/home/vishal/projects/PAMS-WWW/lang'

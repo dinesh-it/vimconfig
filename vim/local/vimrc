@@ -1,0 +1,6 @@
+" 
+" User's local vim configuration
+"  
+
+let g:company = "<company>"
+let g:tex_flavor = "tex"

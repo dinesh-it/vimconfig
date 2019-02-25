@@ -1,0 +1,7 @@
+" 
+" User's local vim configuration
+"  
+"set guifont=-misc-fixed-bold-r-normal-*-*-140-*-*-c-*-iso8859-2
+set lines=44
+set columns=111
+
